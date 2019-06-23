@@ -278,5 +278,7 @@ RepresentableFunctors/RawMatrix.v
 RepresentableFunctors/DirectSum.v
 RepresentableFunctors/Test.v
 
-
-
+# Graph Calculi
+GraphCalc/GraphCalcAbs.v
+GraphCalc/GraphCalcRel.v
+GraphCalc/GraphCalcTrad.v
